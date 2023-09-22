@@ -416,13 +416,7 @@ body {
 	}
 }
 
-@media only screen and (max-width: 300px) {
-	.prev,
-	.next,
-	.text {
-		font-size: 11px;
-	}
-}
+
 
 /* Tariff */
 #tariff {
@@ -455,12 +449,7 @@ body {
 	margin-right: 40px;
 }
 
-/* @media (max-width: 500px) {
-	.tariff-slide {
-		width: 28rem !important;
-		height: 36rem !important;
-	}
-} */
+
 
 .tariff-slide .tariff-slide-content {
 	position: absolute;
@@ -572,7 +561,7 @@ body {
 	transform: translateX(-58%) !important;
 }
 
-@media (max-width: 990px) {
+/* @media (max-width: 990px) {
 	.tariff-slider-control .swiper-button-next {
 		left: 100% !important;
 		transform: translateX(-70%) !important;
@@ -599,7 +588,7 @@ body {
 		transform: translateX(-20%) !important;
 	}
 }
-
+ */
 .tariff-slider-control .slider-arrow {
 	width: 270px;
 	left: 1%;
